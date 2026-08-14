@@ -1,4 +1,4 @@
-<img width="1920" height="957" alt="Captura de Tela (148)" src="https://github.com/user-attachments/assets/59e8262d-76f5-4448-ab42-81564ea5f2fd" /># CookieMonster
+# CookieMonster
 
 ###### Categoria: WEB
 ###### Autor: Luis Pedro do Carmo Costa
@@ -13,7 +13,7 @@ Acesse aqui o desafio: https://monster.discloud.app
 
 Em primeiro lugar, na tela, é possível observar a mensagem "NOM NOM... Você não é admin!" o que me fez pensar que a flag teria algo a ver com a administração do site. Em segundo lugar, o nome "Cookie Monster" me fez pensar que o desafio teria algo haver com cookies. 
 
-<img width="1920" height="957" alt="Captura de Tela (148)" src="https://github.com/user-attachments/assets/a9d8ed9a-d70c-4065-98bc-a24dc9a5a5d1" />
+<img width="1920" height="957" alt="Captura de Tela (148)" src="https://github.com/user-attachments/assets/59e8262d-76f5-4448-ab42-81564ea5f2fd" />
 
 Pensando nisso, ao clicar com o botão direito na tela e clicar em "Inspecionar", fui para a aba de "Application" onde lá, fica a parte dos cookies do site, mudando o valor do admin de "não" para "sim" e ao recarregar a página, foi possível observar a flag.
 
