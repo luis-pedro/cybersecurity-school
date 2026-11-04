@@ -51,4 +51,4 @@ def choose_greatest():
 
 
 
-choose_greatest()
+decode_secret(bezos_cc_secret)
