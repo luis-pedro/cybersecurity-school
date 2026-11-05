@@ -1,9 +1,9 @@
 # Crackme-py
 
-**Categoria:** Engenharia Reversa
-**Nível:** Médio
-**Plataforma:** CyLab
-**Autor:** Luis Pedro do Carmo Costa
+**Categoria:** Engenharia Reversa     
+**Nível:** Médio     
+**Plataforma:** CyLab     
+**Autor:** Luis Pedro do Carmo Costa    
 
 ---
 
